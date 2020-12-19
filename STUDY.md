@@ -49,3 +49,16 @@ sys.stdin.readline()
 입출력 속도 비교: sys.stdin.readline() > raw_input() > input()
 
 **2. Pypy로 제출**
+
+
+
+## isalpha, isdigit
+
+`isalpha()`
+
+> 문자열이 문자인지 아닌지를 True, False로 리턴 (문자열에 숫자 또는 공백이 있으면 False)
+
+`isdigit()`
+
+> 문자열이 숫자인지 아닌지를 True, False로 리턴
+
